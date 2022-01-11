@@ -13,3 +13,7 @@ Try these websites and also always `Google` the crypto you are intested in
 [Coindesk](https://www.coindesk.com/)  
 [Coin Telegraph](https://cointelegraph.com/)  
 [Glass Node](https://studio.glassnode.com/)
+
+## Bitcoin vs Altcoinf eb + flow
+
+[blockchaincenter.net/altcoin-season-index/](https://www.blockchaincenter.net/altcoin-season-index/)
