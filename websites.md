@@ -17,3 +17,7 @@ Try these websites and also always `Google` the crypto you are intested in
 ## Bitcoin vs Altcoinf eb + flow
 
 [blockchaincenter.net/altcoin-season-index/](https://www.blockchaincenter.net/altcoin-season-index/)
+
+## Intelligence
+
+[https://www.cypherhunter.com/](https://www.cypherhunter.com/)
